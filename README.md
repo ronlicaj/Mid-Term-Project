@@ -1,7 +1,7 @@
 # Mid-term_Project
 Household Price Analysis Project
 
-### Introduction and Briefing
+### Introduction
 
 The dataset consisted of historic data of houses sold between May 2014 to May 2015. The Objective is to is to build a model that will predict the price of a house based on features provided in the dataset. There are certain characteristics for those houses (Price range of $650 and above), which will be detrimental in increasing the value of it. So we are given the data set which have these characteristics features such as price, condition, Sqft to name a few.
 
