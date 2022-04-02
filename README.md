@@ -1,5 +1,5 @@
 # Mid-term_Project
-Project on Household price Analysis
+Household Price Analysis Project
 
 ### Introduction and Briefing
 
